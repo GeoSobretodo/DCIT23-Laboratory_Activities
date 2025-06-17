@@ -1,4 +1,3 @@
-
 //Laboratory_Activity#1_Employee_Information_System
 import java.util.Scanner; //#This imports module that we need to use.
 
