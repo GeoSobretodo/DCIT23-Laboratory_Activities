@@ -1,4 +1,3 @@
-
 import java.util.Scanner; //This what we need to run the program
 import java.math.RoundingMode; // modules that contains rounding off
 import java.text.DecimalFormat; // for formatting decimal places
